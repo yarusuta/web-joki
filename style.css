@@ -1,0 +1,279 @@
+body {
+   
+    background-color: rgb(0, 0, 0);
+    font-family: Arial, sans-serif;
+}
+.menu-kontainer{
+    height:10vh;
+}
+.menujak{
+    height: 10vh;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20;
+    font-weight: 900;
+}
+
+/* GAMBAR LOGO SEVICE */
+.gambarlogo{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+ /* TOMBOL HOME */
+ .ul-TOMBOL-HOME{
+    font-size :20px;
+    font-weight: 900; 
+    justify-content: center;
+    display: flex;
+    align-items: center;  
+}
+    
+ .TOMBOL-HOME{
+    text-decoration:none; 
+ }
+
+
+
+.container {
+    width: 200px;
+    width: 60%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+header {
+    color: #fff;
+    padding: 20px 0;
+}
+
+header h1 {
+    float: left;
+}
+
+nav ul {
+    float: right;
+    margin: 0;
+    padding: 0;
+    height:10%;
+   
+}
+
+
+
+
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+}
+
+nav ul li a.active, ul li a:hover {
+    
+    background-color: #ff0000; /* Warna yang menyala saat dihover */
+}
+
+ul h3 a.active, ul h3 a:hover{
+    background-color: #ff0000;
+}
+
+.hero {
+    color: #ffffff;
+    text-align: center;
+    padding: 100px 0;
+}
+
+footer {
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.jokil{
+    height: max-content;
+    background-size:auto;
+    color:#ec0000;
+}
+
+
+
+
+
+/* HOME HTML */
+.welcome{
+    border-radius: 100%;
+    background-color: #970000;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.hero{
+    background-color: rgb(0, 0, 0);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.logo-tengah{
+    height:60vh; 
+    
+}
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* contak */
+.bodyjak{
+    background-color: #000000;
+}
+
+
+.kontainer-kontak{
+    height: 20px;
+    justify-content: center;
+    display: flex;
+    background-color:none;
+}
+
+.bar-home{
+    color: #fff;
+    font-size:70;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    align-items:flex-end;
+    justify-content: center;
+    display: flex;
+    background-color:white;
+}
+    
+
+ .atas{
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+ }
+
+    
+.kurgambar{
+    align-items:start;
+    width: 30%;
+    height:50%;
+}
+
+.item-contact{
+    color: #fff;
+}
+
+.div-contact{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* CERVICES */
+
+body-service
+
+.homejak{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20;
+    font-weight: 900;
+    
+}
+
+.nama{
+    border: #970000;
+    height:10px;
+    width: 50%;
+}
+.-MENU{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.layana{
+    color: #ffffff;
+    margin-right:200px;
+}
+
+/* LAYANAN  */
+.layanan{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.layanan-item {
+    color: #fff;
+    text-align: center;
+    width:30%;
+}
+
+.layanan-item img {
+    width: 80px;
+    height: 80px;
+}
+
+.layanan-item h3 {
+    margin-top: 10px;
+    font-size: 1.2em;
+}
+
+.layanan-item p {
+    margin-top: 5px;
+    font-size: 0.9em;
+}
+
+
+/* ABOUT */
+.div-kalimat{
+    color:white;
+}
+   
+.bawah{
+  
+}
